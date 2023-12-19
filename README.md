@@ -1,3 +1,7 @@
+# Minicurso Aplicado para a Semana Integrada da Computação (SIC) 2023
+Fui o ministrante de um minicurso de desenvolvimento de APIs REST usando o Java Spring Boot.
+Aqui estão armazenados alguns arquivos e especificações do projeto desenvolvido.
+
 # Introdução ao Desenvolvimento de APIs REST com Spring Boot
 
 ## Módulo 1: Introdução
